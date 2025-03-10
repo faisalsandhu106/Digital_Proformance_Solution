@@ -542,7 +542,7 @@ nav{
     width: 40%;
     height: 400px;
     border-radius: 5px;
-    background-image: url(pic/Golf.webp);
+    background-image: url(./Golf.webp);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -598,7 +598,6 @@ nav{
     position: relative;
     overflow: hidden;
     z-index: 1;
-
 }
 
 .para-continer-1 h3 button::before{
@@ -612,7 +611,6 @@ nav{
     z-index: -1;
     transform: translateX(-100%);
     transition: .4s;
-
 }
 
 .para-continer-1 h3 button:hover::before{
@@ -626,7 +624,7 @@ nav{
     width: 40%;
     height: 400px;
     border-radius: 5px;
-    background-image: url(pic/work-thumbnail-03.webp);
+    background-image: url(./work-thumbnail-03.webp);
     background-size: cover;
     background-repeat: no-repeat;
 
